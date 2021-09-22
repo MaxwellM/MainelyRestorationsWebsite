@@ -1,0 +1,151 @@
+{
+  "Header": {
+    "title": "Mainely Restorations",
+    "paragraph": "Northern Utah's fine wood finish touch-up, furniture, and antique repair"
+  },
+  "About": {
+    "paragraph": "Amateur woodworker who started in this field as a way to get closer to my father. I spend my time perusing thrift stores for solid wood furniture that deserve another lease on life. Purchasing this listed item allows me to practice this new endeavor and reinvest it back into other future pieces.",
+    "Why": [
+      "New England Native",
+      "Passionate",
+      "Responsive",
+      "Thorough"
+    ],
+    "Why2": [
+      "Stain, not Paint",
+      "Local Business",
+      "Recycle",
+      "Awesome"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Floor Pipe Lamp",
+      "largeImage": "img/portfolio/FloorLamp.jpg",
+      "smallImage": "img/portfolio/FloorLamp.jpg"
+    },
+    {
+      "title": "Table Pipe Lamp",
+      "largeImage": "img/portfolio/TableLamp.jpg",
+      "smallImage": "img/portfolio/TableLamp.jpg"
+    },
+    {
+      "title": "Pipe Bookcase",
+      "largeImage": "img/portfolio/Bookcase.jpg",
+      "smallImage": "img/portfolio/Bookcase.jpg"
+    },
+    {
+      "title": "Pipe Standing Closet",
+      "largeImage": "img/portfolio/StandingCloset.jpg",
+      "smallImage": "img/portfolio/StandingCloset.jpg"
+    },
+    {
+      "title": "1950s Maple Dining Room Set",
+      "largeImage": "img/portfolio/DiningRoomSet.jpg",
+      "smallImage": "img/portfolio/DiningRoomSet.jpg"
+    },
+    {
+      "title": "1980s Coffee Table",
+      "largeImage": "img/portfolio/CoffeeTable.JPG",
+      "smallImage": "img/portfolio/CoffeeTable.JPG"
+    },
+    {
+      "title": "1980s Bar Stool",
+      "largeImage": "img/portfolio/BarStool.JPG",
+      "smallImage": "img/portfolio/BarStool.JPG"
+    },
+    {
+      "title": "1920s Handmade Tool Box",
+      "largeImage": "img/portfolio/ToolBox2.jpg",
+      "smallImage": "img/portfolio/ToolBox2.jpg"
+    },
+    {
+      "title": "Various Small Tools",
+      "largeImage": "img/portfolio/SmallTools.jpg",
+      "smallImage": "img/portfolio/SmallTools.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "img": "img/icon-furniture-refinishing.jpg",
+      "name": "Refinishing",
+      "text": "The clear finish on your furniture is the protective layer between the wood and the elements.  Just like the paint on your house or car eventually breaks down, furniture finishes will become worn from UV rays and normal daily use.  Some finishes are more repairable than others, but they ALL will need attention at some point.  When your finish is beyond repair, it’s time to add a new protective coating to your furniture.  Let us carefully and safely hand strip the piece with a soy-based stripper, and you can keep your hands clean.  We use water based dyes to color the wood.  Dyes allow the grain of the wood to show, without pigments covering it as with normal stains.  We use environmentally friendly water-based finishes, as well as historical finishes."
+    },
+    {
+      "img": "img/icon-antique-restoration.jpg",
+      "name": "Restoration",
+      "text": "Unless carefully maintained, normal use can have a damaging effect on your furniture pieces.  Some pieces of furniture may have damaged finish and need to be refinished to protect the piece.  Or we may only need to wash the piece, apply color and finish where it has worn off and apply a coat of wax to protect it.  Our goal in restoration is to restore the piece to it’s original beauty as much as possible, but preserving the patina created by years of maintenance and use.  For antiques we prefer to use the same technique and materials the original builder used to help maintain it’s character and value.  Through our furniture restoration services, we can transform pieces that are dirty, worn and/or neglected into beautiful furniture pieces you will be proud to have in your home."
+    },
+    {
+      "img": "img/icon-veneer-repair1.jpg",
+      "name": "Repair",
+      "text": "If you have furniture pieces that are damaged, broken, or just a bit worse for wear, we can help. We offer furniture repair services that will make your pieces good as new!  In a time where furniture is cheaper than ever, you quickly realize how much value those older solid wood pieces really have.  The older pieces can go 20+ years without repair, while some modern pieces seem to be built to pass the quality control department and that’s it.  We can help with making the older piece as good as the day it was built, or make improvements on the modern piece that may only have glue starved joints.  Let us take a look at your piece that you thought wasn’t worth fixing.  We can help you make that piece as good, if not better, than when you bought it."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Maxwell.jpg",
+      "name": "Maxwell Morin",
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/Kourtney.jpg",
+      "name": "Kourtney Morin",
+      "job": "Co-Founder"
+    }
+  ],
+  "Contact": {
+    "address": "1860 S Courtney Way Unit# 6, West Haven, UT 84401 ",
+    "phone": "(207) 745-5698",
+    "email": "mainelyrestoration@gmail.com"
+  },
+  "Features": [
+    {
+      "img": "img/icon-custom-furniture.jpg",
+      "title": "Local Furniture Restoration",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "img": "img/icon-furniture-refinishing.jpg",
+      "title": "Custom Pipe Lamps & Furniture",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "img": "img/icon-furniture-repair1.jpg",
+      "title": "Antique Tool Restoration",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
