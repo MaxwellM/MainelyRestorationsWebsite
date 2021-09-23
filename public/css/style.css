@@ -253,10 +253,6 @@ header .intro-text {
   text-align: center;
 }
 /* Features Section */
-.feature-row {
-  display: inline-flex;
-  justify-content: center;
-}
 .feature-img {
   mix-blend-mode: multiply;
 }
@@ -323,10 +319,6 @@ header .intro-text {
   margin: 30px 0;
 }
 /* Services Section */
-.service-row {
-  display: inline-flex;
-  justify-content: center;
-}
 .service-img {
   mix-blend-mode: multiply;
 }
@@ -462,11 +454,6 @@ header .intro-text {
   color: #666;
 }
 /* Team Section */
-.team-row {
-  display: inline-flex;
-  justify-content: center;
-  width: 100%;
-}
 #team {
   padding: 100px 0;
 }
