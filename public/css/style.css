@@ -8,6 +8,7 @@ html {
   width: 100% !important;
   height: 100% !important;
 }
+
 h2,
 h3,
 h4 {
@@ -229,7 +230,9 @@ a:focus,
 .intro h1 {
   font-family: "Raleway", sans-serif;
   color: #fff;
-  font-size: 82px;
+  /*font-size: 82px;*/
+  /*font-size: 10rem;*/
+  /*text-size-adjust: auto;*/
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
@@ -611,6 +614,15 @@ label {
 }
 #footer a:hover {
   border-bottom: 2px solid #608dfd;
+}
+
+@media (max-width: 400px) {
+  .intro h1 {
+    /*font-size: 30px;*/
+  }
+  .feature-img {
+    width: 100px;
+  }
 }
 
 @media (max-width: 768px) {
