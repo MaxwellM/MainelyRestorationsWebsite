@@ -21,7 +21,7 @@ func main() {
     api := router.Group("/api")
     {
 		//api.POST("/sendEmail", email.SendEmail)
-		api.POST("/getGoogleMapsAPIKey", common.ReadJsonFile)
+		api.POST("/getEmailJSAPIKey", common.ReadJsonFile)
     }
 
     // This will have the frontend handle all of the routing

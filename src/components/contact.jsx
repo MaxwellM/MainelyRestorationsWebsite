@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import {useEffect, useState} from 'react'
 import emailjs from 'emailjs-com'
 
 const initialState = {
@@ -6,7 +6,32 @@ const initialState = {
   email: '',
   message: '',
 }
+
+let credentials = {
+  service_id: '',
+  template_id: '',
+  user_id: '',
+}
+
 export const Contact = (props) => {
+  useEffect(() => {
+    async function fetchMyAPI() {
+      let response = await fetch('/api/getEmailJSAPIKey', {
+        method: 'POST',
+        headers: {
+          'Accept': 'application/json',
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          fileName: "../emailJSCredentials.json",
+        })
+      });
+      response = await response.json();
+      credentials = response;
+    }
+    fetchMyAPI();
+  }, [])
+
   const [{ name, email, message }, setState] = useState(initialState)
 
   const handleChange = (e) => {
@@ -18,9 +43,10 @@ export const Contact = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault()
     console.log(name, email, message)
+    console.log("Credentials: ", credentials);
     emailjs
       .sendForm(
-        'service_230t10k', 'template_r0e1rjr', e.target, 'user_SXVmZQilujLKsyhQAHMco'
+          credentials["service_id"], credentials["template_id"], e.target, credentials["user_id"]
       )
       .then(
         (result) => {
