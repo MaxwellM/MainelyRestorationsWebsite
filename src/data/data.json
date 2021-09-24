@@ -21,48 +21,39 @@
   "Gallery": [
     {
       "title": "Floor Pipe Lamp",
-      "largeImage": "img/portfolio/FloorLamp.jpg",
-      "smallImage": "img/portfolio/FloorLamp.jpg"
+      "image": "img/portfolio/FloorLamp.jpg"
     },
     {
       "title": "Table Pipe Lamp",
-      "largeImage": "img/portfolio/TableLamp.jpg",
-      "smallImage": "img/portfolio/TableLamp.jpg"
+      "image": "img/portfolio/TableLamp.jpg"
     },
     {
       "title": "Pipe Bookcase",
-      "largeImage": "img/portfolio/Bookcase.jpg",
-      "smallImage": "img/portfolio/Bookcase.jpg"
+      "image": "img/portfolio/Bookcase.jpg"
     },
     {
       "title": "Pipe Standing Closet",
-      "largeImage": "img/portfolio/StandingCloset.jpg",
-      "smallImage": "img/portfolio/StandingCloset.jpg"
+      "image": "img/portfolio/StandingCloset.jpg"
     },
     {
       "title": "1950s Maple Dining Room Set",
-      "largeImage": "img/portfolio/DiningRoomSet.JPG",
-      "smallImage": "img/portfolio/DiningRoomSet.JPG"
+      "image": "img/portfolio/DiningRoomSet.JPG"
     },
     {
       "title": "1980s Coffee Table",
-      "largeImage": "img/portfolio/CoffeeTable.JPG",
-      "smallImage": "img/portfolio/CoffeeTable.JPG"
+      "image": "img/portfolio/CoffeeTable.JPG"
     },
     {
       "title": "1980s Bar Stool",
-      "largeImage": "img/portfolio/BarStool.JPG",
-      "smallImage": "img/portfolio/BarStool.JPG"
+      "image": "img/portfolio/BarStool.JPG"
     },
     {
       "title": "1920s Handmade Tool Box",
-      "largeImage": "img/portfolio/ToolBox2.jpg",
-      "smallImage": "img/portfolio/ToolBox2.jpg"
+      "image": "img/portfolio/ToolBox2.jpg"
     },
     {
       "title": "Various Small Tools",
-      "largeImage": "img/portfolio/SmallTools.jpg",
-      "smallImage": "img/portfolio/SmallTools.jpg"
+      "image": "img/portfolio/SmallTools.jpg"
     }
   ],
   "Services": [
@@ -84,9 +75,9 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/Brody.jpg",
+      "text": "The Table I bought from Mainely Restorations has a smooth sheen on top whic his perfect! You can tell he takes time sanding and finishing them.",
+      "name": "Brody Prestwich"
     },
     {
       "img": "img/testimonials/02.jpg",

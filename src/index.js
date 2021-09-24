@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import ReactLightbox from 'simple-react-lightbox'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <ReactLightbox>
+          <App />
+      </ReactLightbox>
   </React.StrictMode>,
   document.getElementById('root')
 );
